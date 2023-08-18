@@ -54,7 +54,7 @@ Nota: El shell Bash considera todas las variables de tipo ‘string’ a menos q
 #input2.sh
 nombre=${1}
 # Print.
-echo "Hola, este es el servidor de ${nombre}. A ${nombre} le encanta recibir laboratorios de Linux. ${nombre} espera que estés teniendo un buen día.
+echo "Hola, este es el servidor de ${nombre}. A ${nombre} le encanta recibir laboratorios de Linux. ${nombre} espera que estés teniendo un buen día."
 ```
 Corra el script con ```./input2.sh nombre```
 
