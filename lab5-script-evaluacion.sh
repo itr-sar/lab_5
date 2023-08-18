@@ -25,6 +25,6 @@ echo "Ejercicio No. 3"
 echo "revisión de script de nombre"
 echo "---------------------------------------"
 read nombre
-sudo bash input2.sh nombre
+sudo bash input2.sh $nombre
 echo "---------------------------------------"
 
